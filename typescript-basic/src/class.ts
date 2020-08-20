@@ -1,5 +1,5 @@
 interface User {
-    name: String;
+    name: string;
 }
 interface Product {
     id: string;
