@@ -1,5 +1,4 @@
 // 조건부 타입 활용
-
 interface Veigtable {
     v: string;
 }
